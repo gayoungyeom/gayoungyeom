@@ -1,4 +1,4 @@
-# Gayoung Yeom (a.k.a zeo)
+# Gayoung Yeom (zeo)
 
 Hi there! I'm a frontend developer interested in React.
 
@@ -6,13 +6,12 @@ Hi there! I'm a frontend developer interested in React.
 
 - Kakao Enterprise, AIaaS FE intern. (2022.08 ~ present)
 - K-SW Square in Purdue University. (2022.04 ~ 2022.08)
-- IBoss, FE intern. (2021.07 ~ 2021.08)
 - Hankuk University of Foreign Studies, CES (2018.03 ~ 2022.08)
 
 ### 🛠️ Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=gayoungyeom" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayoungyeom&layout=compact" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=gayoungyeom" height="165">
 </div>
 
 <br />
