@@ -6,7 +6,7 @@ Hi there! I'm a frontend developer interested in React.
 
 - Kakao Enterprise, AIaaS FE intern. (2022.08 ~ present)
 - K-SW Square in Purdue University. (2022.04 ~ 2022.08)
-- Hankuk University of Foreign Studies, CES (2018.03 ~ 2022.08)
+- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering (2018.03 ~ 2022.08)
 
 ### 🛠️ Stats
 <div>
