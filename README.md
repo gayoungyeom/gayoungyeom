@@ -1,10 +1,10 @@
-# Gayoung Yeom (zeo)
+# Gayoung Yeom
 
 Hi there! I'm a frontend developer interested in React.
 
 ### 🎨Experience
 
-- Kakao Enterprise, AIaaS FE intern. (2022.08 ~ present)
+- Kakao Enterprise, AIaaS FE intern. (2022.08 ~ 2023.02)
 - K-SW Square in Purdue University. (2022.04 ~ 2022.08)
 - Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering (2018.03 ~ 2022.08)
 
