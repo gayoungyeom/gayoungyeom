@@ -11,7 +11,7 @@ Hi there! I'm a frontend developer interested in React.
 
 ### 🛠️ Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayoungyeom&layout=compact" height="165">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayoungyeom&layout=compact" height="165"> -->
   <img src="https://github-readme-stats.vercel.app/api?username=gayoungyeom" height="165">
 </div>
 
