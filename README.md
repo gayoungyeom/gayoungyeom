@@ -2,7 +2,7 @@
 
 Hi there! I'm a frontend developer interested in React.
 
-### 🎨Experience
+### 🎨 Experience
 
 - 9oormthon 5th, FE developer. (2023.03.28 ~ 2023.03.31)
 - Kakao Enterprise, AIaaS FE intern. (2022.08 ~ 2023.02)
