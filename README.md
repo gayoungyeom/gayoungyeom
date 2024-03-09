@@ -4,10 +4,10 @@ Hi there! I'm a frontend developer interested in React.
 
 ### 🎨 Experience
 
+- YG Entertainment, FE developer. (2023.09.18 ~ present)
 - 9oormthon 5th, FE developer. (2023.03.28 ~ 2023.03.31)
-- Kakao Enterprise, AIaaS FE intern. (2022.08 ~ 2023.02)
+- Kakao Enterprise, FE intern. (2022.08 ~ 2023.02)
 - K-SW Square in Purdue University. (2022.04 ~ 2022.08)
-- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering (2018.03 ~ 2022.08)
 
 ### 🛠️ Stats
 <div>
@@ -22,13 +22,13 @@ Hi there! I'm a frontend developer interested in React.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?&style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<!-- </div> -->
+<!-- <div> -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-3678E5?style=flat&logo=recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactQuery-F84054?style=flat&logo=reactquery&logoColor=white"/>
 </div>
 
 <!--
