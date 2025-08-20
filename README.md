@@ -1,13 +1,13 @@
 # Gayoung Yeom
 
-Hi there! I'm a frontend developer interested in React.
+- A frontend developer with 2 years of experience.
+- Interested in developing common components and templates.
+- Built up my ability by focusing on the development of the administrator system.
 
 ### 🎨 Experience
 
 - YG Entertainment, FE developer. (2023.09.18 ~ present)
-- 9oormthon 5th, FE developer. (2023.03.28 ~ 2023.03.31)
 - Kakao Enterprise, FE intern. (2022.08 ~ 2023.02)
-- K-SW Square in Purdue University. (2022.04 ~ 2022.08)
 
 ### 🛠️ Stats
 <div>
